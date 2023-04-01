@@ -1,2 +1,1 @@
-# sentiment 
-message sentiment
+# Analysis of text data 
