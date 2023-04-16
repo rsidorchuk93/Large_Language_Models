@@ -1,4 +1,4 @@
 # Analysis of text data with Large Language Models:
-- eCommerce reviews tags extraction 
-- Fine tuned BERT and RoBERTa for text sentiment and emotions analysis
-- BART for podcast subtitles summarization
+- Keywords extraction and topics modeling with custom BERT for eCommerce reviews
+- Text sentiment and emotions analysis with BERT and RoBERTa for messages 
+- Summarization with BART for podcast subtitles
